@@ -1,0 +1,7 @@
+pymupdf
+scikit-learn
+google.generativeai
+streamlit
+python-dotenv
+pandas
+matplotlib

@@ -1,6 +1,3 @@
-# resume-screening-tool
-An AI-powered Resume Screening Assistance Tool with ATS scoring, skill gap analysis, and visualizations.
-
 # Resume Screening Assistance Tool 📚
 
 This is an AI-powered Resume Screening Tool that:
